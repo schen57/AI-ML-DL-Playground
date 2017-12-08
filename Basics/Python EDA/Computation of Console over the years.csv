@@ -1,0 +1,15 @@
+﻿Console,Manufacturer,Measurement,Unit,InFlops,InTeraFlops,Release Year
+Dreamcast,Sega,1.4,GFLOPS,1400000000,0.0014,1998
+PlayStation 2,Sony,6.2,GFLOPS,6200000000,0.0062,2000
+GameCube,Nintendo,9.4,GFLOPS,9400000000,0.0094,2001
+Xbox,Microsoft,20,GFLOPS,20000000000,0.02,2001
+Xbox 360,Microsoft,240,GFLOPS,2.4E+11,0.24,2005
+PlayStation 3,Sony,230.4,GFLOPS,2.304E+11,0.2304,2006
+Wii,Nintendo,12,GFLOPS,12000000000,0.012,2006
+Wii U,Nintendo,352,GFLOPS,3.52E+11,0.352,2012
+PlayStation 4,Sony,1.843,TFLOPS,1.843E+12,1.843,2013
+Xbox One,Microsoft,1.31,TFLOPS,1.31E+12,1.31,2013
+Xbox One S,Microsoft,1.4,TFLOPS,1.4E+12,1.4,2016
+PlayStation 4 Pro,Sony,4.2,TFLOPS,4.2E+12,4.2,2016
+Nintendo Switch,Nintendo,1,TFLOPS,1E+12,1,2017
+Xbox One X,Microsoft,6,TFLOPS,6E+12,6,2017
